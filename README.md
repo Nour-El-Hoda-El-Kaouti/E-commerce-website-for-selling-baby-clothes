@@ -1,1 +1,1 @@
-# Site-web-e-commerce-pour-vendre-les-v-tements-des-b-b-s
+ I developed an e-commerce website for selling baby clothes, utilizing PHP, HTML, CSS, and JavaScript for the frontend and backend. MySQL was used as the database to manage products, orders, and user data effectively. The platform provided a user-friendly shopping experience.
